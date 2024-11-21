@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cars-app/static/css/main.ef752710.css",
+    "main.js": "/cars-app/static/js/main.3215acec.js",
+    "static/js/453.252cee70.chunk.js": "/cars-app/static/js/453.252cee70.chunk.js",
+    "index.html": "/cars-app/index.html",
+    "main.ef752710.css.map": "/cars-app/static/css/main.ef752710.css.map",
+    "main.3215acec.js.map": "/cars-app/static/js/main.3215acec.js.map",
+    "453.252cee70.chunk.js.map": "/cars-app/static/js/453.252cee70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef752710.css",
+    "static/js/main.3215acec.js"
+  ]
+}
